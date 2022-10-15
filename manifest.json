@@ -1,0 +1,10 @@
+﻿{
+	"name": "No Lunar Recycler",
+	"version_number": "1.0.0",
+	"website_url": "github.com/Flexlolo/ror2-no-lunar-recycler",
+	"description": "Blocks lunar recycler interaction",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
