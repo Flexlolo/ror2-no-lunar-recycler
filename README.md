@@ -1,6 +1,6 @@
 # No Lunar Recycler
 
-Block lunar recycler interaction.
+Blocks lunar recycler interaction.
 
 ## Changelog
 
